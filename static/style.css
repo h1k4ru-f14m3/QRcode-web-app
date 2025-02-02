@@ -1,0 +1,26 @@
+body {
+    background-color: blueviolet;
+}
+
+/* header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    height: 35px;
+} */
+
+form {
+    /* position: absolute; */
+
+    margin: auto;
+    width: 100%;
+    max-width: 300px;
+
+    background-color: white;
+    border-style: solid;
+    border-radius: 25px;
+    text-align: center;
+
+    padding: 70px 50px;
+}
